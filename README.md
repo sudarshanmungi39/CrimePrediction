@@ -81,8 +81,8 @@ Make sure the CSV file (e.g., `Crime_Data.csv`) is available for proper executio
 
 ## Models Implemented
 
-- Random Forest Classifier
 - XGBoost Classifier
+- LSTM Classifier
 
 ---
 
