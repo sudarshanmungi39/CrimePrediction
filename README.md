@@ -33,10 +33,10 @@ This project analyzes crime data to predict future crime occurrences based on pa
 
 ## Data Source
 
-The dataset used in this project should be placed in the `/data` folder.  
-Make sure the CSV file (e.g., `Crime_Data.csv`) is available for proper execution.
+The dataset used in this project.  
+Crime_Data.csv that contains data from 2020 to present.
+Source: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
 
-*If dataset is not provided, adjust paths accordingly or fetch from open sources (e.g., Kaggle datasets).*
 
 ---
 
